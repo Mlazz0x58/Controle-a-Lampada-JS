@@ -1,0 +1,10 @@
+*{
+    margin:0;
+}
+
+.doc{
+    font-family: verdana;
+    text-align: center;
+    margin-top: 20px;
+    background-color: rgb(221, 230, 221);
+}

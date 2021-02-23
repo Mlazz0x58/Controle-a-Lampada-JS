@@ -1,0 +1,1 @@
+Exercício de eventos de sincronização que permite executar instruções ou funções em um intervalo de tempo e o uso da estrutura de dados while.
